@@ -1,0 +1,10 @@
+C:\Users\Martin\source\repos\AutoProjekt\AutoProjekt\bin\Debug\AutoProjekt.exe.config
+C:\Users\Martin\source\repos\AutoProjekt\AutoProjekt\bin\Debug\AutoProjekt.exe
+C:\Users\Martin\source\repos\AutoProjekt\AutoProjekt\bin\Debug\AutoProjekt.pdb
+C:\Users\Martin\source\repos\AutoProjekt\AutoProjekt\obj\Debug\AutoProjekt.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\AutoProjekt\AutoProjekt\obj\Debug\AutoProjekt.Form1.resources
+C:\Users\Martin\source\repos\AutoProjekt\AutoProjekt\obj\Debug\AutoProjekt.Properties.Resources.resources
+C:\Users\Martin\source\repos\AutoProjekt\AutoProjekt\obj\Debug\AutoProjekt.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\AutoProjekt\AutoProjekt\obj\Debug\AutoProjekt.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\AutoProjekt\AutoProjekt\obj\Debug\AutoProjekt.exe
+C:\Users\Martin\source\repos\AutoProjekt\AutoProjekt\obj\Debug\AutoProjekt.pdb
